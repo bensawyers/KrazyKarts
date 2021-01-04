@@ -1,0 +1,25 @@
+Benjamin Sawyers-Reynolds
+Student no: 159059467
+
+Assets
+
+Castle Kit : https://kenney.nl/assets/castle-kit
+Nature Kit : https://kenney.nl/assets/nature-kit
+Pirate Kit : https://kenney.nl/assets/pirate-kit
+kenney_racingkit2 : https://kenney.nl/assets/racing-kit
+carkit_v1.3 : https://kenney.nl/assets/car-kit
+Zero Rare : https://assetstore.unity.com/packages/audio/sound-fx/sound-fx-retro-pack-121743
+Fantasy Skybox FREE : https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+Standard Assets : https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2017-3-32351
+
+Audio
+
+Sourced from youtube.com
+
+Fonts and Images
+
+Sourced from clipartmax.com and https://eu0.flamingtext.com/
+
+Code
+
+Only the RaceCar was modified from a script provided in the Unity project Karting found at https://assetstore.unity.com/packages/templates/karting-microgame-150956

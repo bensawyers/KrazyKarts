@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{14580227-3055-8BB5-AEBD-6F34A8E6F571}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreboardManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FinalLeaderBoardMan.cs" Line="43" Column="67" />
+      <File FileName="Assets/Scripts/AITimer.cs" Line="32" Column="47" />
+      <File FileName="Assets/Scripts/PlayerData.cs" />
+      <File FileName="Assets/Scripts/SaveSystem.cs" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/ButtonManager.cs" />
+      <File FileName="Assets/Scripts/Backendless/Globals.cs" Line="13" Column="68" />
+      <File FileName="Assets/Scripts/Backendless/RemoteHighScoreManager.cs" Line="115" Column="38" />
+      <File FileName="Assets/Scripts/Backendless/BestTrackUpdate.cs" Line="13" Column="80" />
+      <File FileName="Assets/Scripts/ScoreboardManager.cs" Line="15" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JDMotorsport" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef3c7066-863a-4fa1-b82a-16bd4cf78d68" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
